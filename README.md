@@ -1,14 +1,21 @@
 # DSL2018-Proj-Climate-Science
 
 ## Introduction
-When Europeans experience a heavy temperature drop in winter,
-chances are that a *Sudden Stratospheric Warming* (SSW) has
-happened. This phenomenon is characterized by a strong temperature
-increase in the stratosphere, possibly up to 50 ̊C within a few days.
-Being able to predict these events can help meteorologists improve
-weather forecasting.
+When Europeans experience a heavy temperature drop in winter, chances are
+that a Sudden Stratospheric Warming (SSW) has happened. This phenomenon is
+characterized by a strong temperature increase in the stratosphere, possibly up to
+50 °C within a few days. Being able to predict these events can help meteorologists
+improve weather forecasting. In this work, we aim to classify and predict SSWs.
+To the best of our knowledge, this is the first successful attempt for the prediction
+of this phenomenon using Machine Learning approaches.
 
-Download the [poster](poster.pdf) if you want to get a quick overview about the project. If you would like more information, you can download the [report](report.pdf) or explore our code. For any feedback, don't hesitate to contact me. Thank you!
+**Poster for the project is available here: [poster](poster.pdf)**
+**Project Report is available here: [report](report.pdf)**
+
+## Team
+Dimitrios Koutsoukos <br/>
+Marcel Bühler <br/>
+Orhun Özbek <br/>
 
 ## Setup
 1. Set the environment variables.
